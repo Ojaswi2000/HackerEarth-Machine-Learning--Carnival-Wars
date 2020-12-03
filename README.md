@@ -8,3 +8,5 @@ The link of the competition is:
 
 
 The model used for training the data is a Linear Regression model that yields an accuracy of **49%**. Still trying to improve the accuracy of the model.
+
+![hack](https://user-images.githubusercontent.com/65769340/101085001-d2265b00-35d4-11eb-9e83-858ae4ada1ad.PNG)
